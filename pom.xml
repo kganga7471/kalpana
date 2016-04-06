@@ -59,7 +59,7 @@
 
   <groupId>kalpana</groupId>
   <artifactId>kalpana</artifactId>
-  <version>1.13-SNAPSHOT</version>
+  <version>1.13</version>
   <packaging>jar</packaging>
 
   <name>kalpana</name>
@@ -207,7 +207,7 @@
 			<scm>
 				<developerConnection>scm:git:https://github.com:kganga7471/kalpana.git</developerConnection>
 				 
-    <tag>HEAD</tag>
+    <tag>kalpana-1.13</tag>
   </scm>
 				
 </project>
