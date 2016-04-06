@@ -27,6 +27,9 @@
         <version>2.5.3</version>
       </plugin>
     </plugins>
+	<tagBase>
+				  scm:git:git@github.com:kganga7471/kalpana.git
+				  </tagBase> 
   </build>
 <pluginRepositories>
 							  <pluginRepository>
