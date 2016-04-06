@@ -28,7 +28,18 @@
       </plugin>
     </plugins>
   </build>
-
+<pluginRepositories>
+							  <pluginRepository>
+							  <id>releases</id>
+		  <url>http://127.0.0.1:8081/nexus/content/groups/public/</url>
+				 <releases>
+				 <enabled>true</enabled>
+						  </releases>
+									  <snapshots>
+									  <enabled>false</enabled>
+									  </snapshots>
+									  </pluginRepository>
+									  </pluginRepositories>
 
   <dependencies>
     <dependency>
