@@ -62,7 +62,7 @@
   <version>1.13-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>child</name>
+  <name>kalpana</name>
   <url>http://maven.apache.org</url>
 
   <properties>
