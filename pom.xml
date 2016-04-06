@@ -28,7 +28,8 @@
       </plugin>
     </plugins>
 	<tagBase>
-				  scm:git:git@github.com:kganga7471/kalpana.git
+				<!--  scm:git:git@github.com:kganga7471/kalpana.git-->
+				  https://github.com/kganga7471/kalpana.git
 				  </tagBase> 
   </build>
 <pluginRepositories>
