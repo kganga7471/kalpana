@@ -132,7 +132,7 @@
 		<configuration>
 		
 		<tagBase>
-		git@github.com:kganga7471/kalpana.git
+		git:https://github.com/kganga7471/kalpana.git
 		</tagBase>
 		
 		</configuration>
@@ -149,7 +149,7 @@
 	  </build>
  
 			<scm>
-				<developerConnection>git@github.com:kganga7471/kalpana.git</developerConnection>
+				<developerConnection>scm:git:https://github.com/kganga7471/kalpana.git</developerConnection>
 				 
     <tag>kalpana-1.13</tag>
   </scm>
