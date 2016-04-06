@@ -59,7 +59,7 @@
 
   <groupId>kalpana</groupId>
   <artifactId>kalpana</artifactId>
-  <version>1.13</version>
+  <version>1.13-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>kalpana</name>
